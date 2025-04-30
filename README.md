@@ -1,5 +1,10 @@
 <h1>Hi! I'm Victor 😁</h1>
-<p>•I am passionate about studying data using statistical 📊 and machine learning methods 💻 . I love learning knowledge about science 🔬 and technology 📱, I'am currently studying Data Science. 💻📈</p>
+<p>• I'am a Jr. Data Scientist 💻 </p>
+<p> I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
+<p> I'am currently studying Data Science at EBAC Mexico 📝</p>
+<p> I love learning about science and technology 📱</p>
+<p> How to reach me: victorve_l@outlook.com ✉️</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
