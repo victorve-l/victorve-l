@@ -10,7 +10,7 @@
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="42" height="42" /></a>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
+          <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
 </p>
 
 <h2>🧠 Machine Learning and Data Science</h2>
@@ -19,9 +19,7 @@
   <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg" style="display: inline-block;"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="42" height="42" /></a>
   <a target="_blank" href="https://matplotlib.org/_static/logo2_compressed.svg" style="display: inline-block;"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="42" height="42" /></a>
   <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-  
-  <a target="_blank" href="https://raw.githubusercontent.com/scipy/scipy.github.com/main/static/logo.svg" style="display: inline-block;"><img src="https://yanbin.blog/scipy-optimize-minimize/scipy-logo/" alt="scipy" width="42" height="42" /></a>
-  
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/07/Scipylogo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Scipylogo.png" alt="scipy" width="42" height="42" /></a>
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
   <a target="_blank" href="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg" style="display: inline-block;"><img src="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg" alt="statsmodels" width="42" height="42" /></a>
   <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
@@ -29,7 +27,7 @@
 
 <h2>📊 Data Analysis Tools</h2>
 <p>
-  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://github.com/microsoft/PowerBI-Icons" alt="powerbi" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" alt="powerbi" width="42" height="42" /></a>
 </p>
 
 <h2>✒️ Recent Posts</h2>
