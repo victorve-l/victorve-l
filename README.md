@@ -27,7 +27,7 @@
 
 <h2>📊 Data Analysis Tools</h2>
 <p>
-  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" alt="powerbi" width="42" height="42" /></a>
+  <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://github.com/microsoft/PowerBI-Icons" alt="powerbi" width="42" height="42" /></a>
 </p>
 
 <h2>✒️ Recent Posts</h2>
