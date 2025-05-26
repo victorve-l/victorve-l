@@ -1,5 +1,5 @@
 <h1>Hi! I'm Victor 😁</h1>
-<p>• I'am a Jr. Data Scientist 💻 </p>
+<p>• I am a Jr. Data Scientist 💻 </p>
 <p>• I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
 <p>• I'am currently studying Data Science at EBAC Mexico 📝</p>
 <p>• I love learning about science and technology 📱</p>
