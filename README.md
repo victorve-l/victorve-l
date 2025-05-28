@@ -36,7 +36,7 @@
   <small><strong>SciPy</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <small><strong>Scikit-learn</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <small><strong>Statsmodels</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <small><strong>TensorFlow</strong></small>
+  <small><strong>PyTorch</strong></small>
   
   <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
@@ -60,7 +60,7 @@
     <img src="https://www.statsmodels.org/v0.11.1/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48" />
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="48" height="48" />
   </a>
 </div>
 
