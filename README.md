@@ -8,10 +8,10 @@
 <h2>🚀 Programming Languages I Use</h2>
 
 <div style="text-align: center;">
-  <span>Python</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>SQL Server</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span>Oracle</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span>R</span>
+  <span style="font-size: 0.8em; font-weight: bold; color: #333;">Python</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 0.8em; font-weight: bold; color: #333;">SQL Server</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 0.8em; font-weight: bold; color: #333;">Oracle</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span style="font-size: 0.8em; font-weight: bold; color: #333;">R</span>
   <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +25,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="48" height="48" />
   </a>
 </div>
+
 
 <h2>🧠 Machine Learning and Data Science</h2>
 <p>
