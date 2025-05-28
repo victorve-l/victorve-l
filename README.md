@@ -6,32 +6,16 @@
 <p>• How to reach me: victorve_l@outlook.com ✉️</p>
 
 <h2>🚀 Programming Languages I Use</h2>
-<ul>
-  <li>
-    <span style="font-size: 0.9em; vertical-align: middle; color: #333; font-weight: bold;">Python</span>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block; text-decoration: none; margin-left: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36" style="vertical-align: middle;" />
-    </a>
-  </li>
-  <li>
-    <span style="font-size: 0.9em; vertical-align: middle; color: #333; font-weight: bold;">SQL Server</span>
-    <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block; text-decoration: none; margin-left: 10px;">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="36" height="36" style="vertical-align: middle;" />
-    </a>
-  </li>
-  <li>
-    <span style="font-size: 0.9em; vertical-align: middle; color: #333; font-weight: bold;">Oracle</span>
-    <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="display: inline-block; text-decoration: none; margin-left: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="36" height="36" style="vertical-align: middle;" />
-    </a>
-  </li>
-  <li>
-    <span style="font-size: 0.9em; vertical-align: middle; color: #333; font-weight: bold;">R</span>
-    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block; text-decoration: none; margin-left: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="36" height="36" style="vertical-align: middle;" />
-    </a>
-  </li>
-</ul>
+<p>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+
+  <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="42" height="42" /></a>
+
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="42" height="42" /></a>
+  
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
+
+</p>
 
 <h2>🧠 Machine Learning and Data Science</h2>
 <p>
