@@ -18,7 +18,7 @@
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp&nbsp<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+  &nbsp&nbsp&nbsp&nbsp<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
