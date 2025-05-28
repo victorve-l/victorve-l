@@ -72,9 +72,10 @@
   <br><br><a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
 </div>
 
-<h2>✒️ Recent Posts</h2>
+<h2>✒️ Relevant Projects</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
+  <li><a target="_blank" href="URL_DE_TU_PROYECTO_1">• Reckitt proyect</a></li>
+  <li><a target="_blank" href="URL_DE_TU_PROYECTO_2">• Fruit color prediction</a></li>
 </ul>
 
 <h2>⚡️ Where to find me</h2>
