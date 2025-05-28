@@ -8,17 +8,17 @@
 <h2>🚀 Programming Languages I Use</h2>
 
 <div style="text-align: center;">
-  <small>Python</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <small>SQL Server</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <small>Oracle</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<small>R</small>
+  <small><strong>Python</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>SQL Server</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Oracle</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><strong>R</strong></small>
   <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp&nbsp&nbsp&nbsp<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -49,4 +49,4 @@
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/victor-de-la-torrev/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username= victorve-l" alt=" victorve-l" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorve" alt="GitHub Trophies" /></a></p>
