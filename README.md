@@ -49,7 +49,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/07/Scipylogo.png">
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/scipy.svg" alt="scipy" width="38" height="38" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
