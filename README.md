@@ -26,17 +26,82 @@
   </a>
 </div>
 
+¡Absolutamente! Vamos a aplicar la misma estructura de dos filas (nombres arriba, logos abajo) y los mismos estilos (letras pequeñas en negritas) para la sección "Machine Learning and Data Science".
+
+Para hacer esto, necesitamos identificar los nombres de cada herramienta/librería y luego organizarlos en sus respectivas filas.
+
+Aquí tienes el código completo con la sección "Machine Learning and Data Science" actualizada:
+
+HTML
+
+<h1>Hi! I'm Victor 😁</h1>
+<p>• I am a Jr. Data Scientist 💻 </p>
+<p>• I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
+<p>• I am currently studying Data Science at EBAC Mexico 📝</p>
+<p>• I love learning about science and technology 📱</p>
+<p>• How to reach me: victorve_l@outlook.com ✉️</p>
+
+<h2>🚀 Programming Languages I Use</h2>
+
+<div style="text-align: center;">
+  <small><strong>Python</strong></small>&nbsp;&nbsp;&nbsp;
+  <small><strong>SQL Server</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Oracle</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><strong>R</strong></small>
+  <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="48" height="48" />
+  </a>
+</div>
+
+---
+
 <h2>🧠 Machine Learning and Data Science</h2>
-<p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-  <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg" style="display: inline-block;"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="42" height="42" /></a>
-  <a target="_blank" href="https://matplotlib.org/_static/logo2_compressed.svg" style="display: inline-block;"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="42" height="42" /></a>
-  <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/07/Scipylogo.png" style="display: inline-block;"><img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/scipy.svg" alt="scipy" width="42" height="42" /></a>
-  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg" style="display: inline-block;"><img src="https://www.statsmodels.org/v0.11.1/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="42" height="42" /></a>
-  <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-</p>
+<div style="text-align: center;">
+  <small><strong>Pandas</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>NumPy</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Matplotlib</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Seaborn</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>SciPy</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Scikit-learn</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>Statsmodels</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <small><strong>TensorFlow</strong></small>
+  <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg">
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://matplotlib.org/_static/logo2_compressed.svg">
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/07/Scipylogo.png">
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/refs/heads/master/scipy.svg" alt="scipy" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.statsmodels.org/stable/_static/statsmodels_logo.svg">
+    <img src="https://www.statsmodels.org/v0.11.1/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="48" height="48" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48" />
+  </a>
+</div>
+
+
+
 <h2>📊 Data Analysis Tools</h2>
 <p>
   <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
