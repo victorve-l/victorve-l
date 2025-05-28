@@ -43,7 +43,7 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg">
     <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://matplotlib.org/_static/logo2_compressed.svg">
     <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
