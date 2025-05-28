@@ -6,13 +6,31 @@
 <p>• How to reach me: victorve_l@outlook.com ✉️</p>
 
 <h2>🚀 Programming Languages I Use</h2>
-
 <p>
-  • Python <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /> </a>
-  • SQL Server <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="42" height="42" /></a>
- • Oracle <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="42" height="42" /></a>
- • R <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
-
+  <div style="display: inline-block; text-align: center; margin-right: 30px; margin-bottom: 20px;">
+    <span style="font-size: 0.9em; font-weight: bold; color: #333;">• Python</span><br>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 30px; margin-bottom: 20px;">
+    <span style="font-size: 0.9em; font-weight: bold; color: #333;">• SQL Server</span><br>
+    <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="48" height="48" />
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 30px; margin-bottom: 20px;">
+    <span style="font-size: 0.9em; font-weight: bold; color: #333;">• Oracle</span><br>
+    <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="48" height="48" />
+    </a>
+  </div>
+  <div style="display: inline-block; text-align: center; margin-right: 30px; margin-bottom: 20px;">
+    <span style="font-size: 0.9em; font-weight: bold; color: #333;">• R</span><br>
+    <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="48" height="48" />
+    </a>
+  </div>
 </p>
 
 <h2>🧠 Machine Learning and Data Science</h2>
