@@ -67,9 +67,10 @@
 
 
 <h2>📊 Data Analysis Tools</h2>
-<p>
+<div style="text-align: center;">
+  <small><strong>PowerBI</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
-</p>
+</div>
 
 <h2>✒️ Recent Posts</h2>
 <ul>
