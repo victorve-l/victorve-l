@@ -37,9 +37,10 @@
   <small><strong>Scikit-learn</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <small><strong>Statsmodels</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <small><strong>TensorFlow</strong></small>
+  
   <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://numpy.org/doc/stable/_static/numpylogo.svg">
     <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
