@@ -8,14 +8,14 @@
 <h2>🚀 Programming Languages I Use</h2>
 
 <div style="text-align: center;">
-  <div style="display: flex; justify-content: center; gap: 70px; margin-bottom: 10px;">
+  <div style="display: flex; justify-content: center; gap: 150px; margin-bottom: 10px;">
     <span style="font-size: 0.9em; font-weight: bold; color: #333;">Python</span>
     <span style="font-size: 0.9em; font-weight: bold; color: #333;">SQL Server</span>
     <span style="font-size: 0.9em; font-weight: bold; color: #333;">Oracle</span>
     <span style="font-size: 0.9em; font-weight: bold; color: #333;">R</span>
   </div>
 
-  <div style="display: flex; justify-content: center; gap: 70px;">
+  <div style="display: flex; justify-content: center; gap: 150px;">
     <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
     </a>
