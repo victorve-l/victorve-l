@@ -26,43 +26,6 @@
   </a>
 </div>
 
-¡Absolutamente! Vamos a aplicar la misma estructura de dos filas (nombres arriba, logos abajo) y los mismos estilos (letras pequeñas en negritas) para la sección "Machine Learning and Data Science".
-
-Para hacer esto, necesitamos identificar los nombres de cada herramienta/librería y luego organizarlos en sus respectivas filas.
-
-Aquí tienes el código completo con la sección "Machine Learning and Data Science" actualizada:
-
-HTML
-
-<h1>Hi! I'm Victor 😁</h1>
-<p>• I am a Jr. Data Scientist 💻 </p>
-<p>• I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
-<p>• I am currently studying Data Science at EBAC Mexico 📝</p>
-<p>• I love learning about science and technology 📱</p>
-<p>• How to reach me: victorve_l@outlook.com ✉️</p>
-
-<h2>🚀 Programming Languages I Use</h2>
-
-<div style="text-align: center;">
-  <small><strong>Python</strong></small>&nbsp;&nbsp;&nbsp;
-  <small><strong>SQL Server</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <small><strong>Oracle</strong></small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><strong>R</strong></small>
-  <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="48" height="48" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="48" height="48" />
-  </a>
-</div>
-
----
 
 <h2>🧠 Machine Learning and Data Science</h2>
 <div style="text-align: center;">
