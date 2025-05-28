@@ -6,14 +6,16 @@
 <p>• How to reach me: victorve_l@outlook.com ✉️</p>
 
 <h2>🚀 Programming Languages I Use</h2>
+
 <p>
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
+
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 
   <a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql server" width="42" height="42" /></a>
 
   <a target="_blank" href="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="42" height="42" /></a>
-  
-  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
+
+          <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42" /></a>
 
 </p>
 
