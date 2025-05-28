@@ -8,10 +8,10 @@
 <h2>🚀 Programming Languages I Use</h2>
 
 <div style="text-align: center;">
-  <span style="font-size: 0.8em;">Python</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 0.8em;">SQL Server</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 0.8em;">Oracle</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span style="font-size: 0.8em;">R</span>
+  <span style="font-size: 0.3em;">Python</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 0.3em;">SQL Server</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 0.3em;">Oracle</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<span style="font-size: 0.3em;">R</span>
   <br><br> <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
