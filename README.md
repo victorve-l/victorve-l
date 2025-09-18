@@ -2,6 +2,7 @@
 <p>• I am a Jr. Data Scientist 💻 </p>
 <p>• I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
 <p>• I love learning about science and technology 📱</p>
+<p>• </p> <!--colocar aqui algo como mi propuesta de valor y/o algo relacionado una conexcion con mi maestria-->
 <p>• How to reach me: victorve_l@outlook.com ✉️</p>
 
 <h2>🚀 Programming Languages I Use</h2>
