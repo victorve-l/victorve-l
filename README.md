@@ -1,7 +1,6 @@
 <h1>Hi! I'm Victor 😁</h1>
 <p>• I am a Jr. Data Scientist 💻 </p>
 <p>• I have a degree in Biological Sciences and a master's degree in Biosciences 🔬 </p>
-<p>• I am currently studying Data Science at EBAC Mexico 📝</p>
 <p>• I love learning about science and technology 📱</p>
 <p>• How to reach me: victorve_l@outlook.com ✉️</p>
 
@@ -72,10 +71,10 @@
   <br><br><a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
 </div>
 
-<h2>✒️ Relevant Projects</h2>
+<h2>✒️ relevvant Projects</h2>
 <ul>
   <li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC">• Reckitt proyect</a></li>
-  <li><a target="_blank" href="https://github.com/victorve-l/Fruit_Color_Prediction">• Fruit color prediction</a></li>
+  <li><a target="_blank" href="https://github.com/victorve-l/Housing-well-being-classifier">• Housing well being classifier</a></li>
 </ul>
 
 <h2>⚡️ Where to find me</h2>
