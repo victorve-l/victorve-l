@@ -72,7 +72,7 @@
   <br><br><a target="_blank" href="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI-Logo.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="42" height="42" /></a>
 </div>
 
-<h2>✒️ relevvant Projects</h2>
+<h2>✒️ Relevant Projects</h2>
 <ul>
   <li><a target="_blank" href="https://github.com/victorve-l/Reckitt_EBAC">• Reckitt proyect</a></li>
   <li><a target="_blank" href="https://github.com/victorve-l/Housing-well-being-classifier">• Housing well being classifier</a></li>
